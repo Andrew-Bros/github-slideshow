@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Something interesting here.
+You may say I'm a dreamer, but I'm not the only one.
 Use the left arrow to go back!
